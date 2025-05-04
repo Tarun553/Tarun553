@@ -1,10 +1,11 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Tarun553/Tarun553/blob/main/gif1.gif" width="800" alt="banner" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tarun553&label=Profile%20views&color=0e75b6&style=flat" alt="Tarun553" />
+</p>
+<p align="center">
+  <img src="https://github.com/Tarun553/Tarun553/blob/main/gif1.gif" width="800" alt="banner" />
 </p>
 
 ---
