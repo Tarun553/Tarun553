@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack and GenAI Developer</h3>
 
 <p align="center">
-  <img src="https://github.com/Tarun553/Tarun553/blob/main/gif.gif" width="600" alt="Nature GIF"/>
+  <img src="https://github.com/Tarun553/Tarun553/blob/main/gif1.gif" width="600" alt="Nature GIF"/>
 </p>
 
 <p align="center">
